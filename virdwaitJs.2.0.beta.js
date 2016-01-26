@@ -1,5 +1,4 @@
 //<!--
-//!function(){}()
 /*
 // Author Sagar V
 
