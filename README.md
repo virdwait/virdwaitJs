@@ -8,3 +8,6 @@ for any query, feel free to contact
 virdwait@gmail.com
 sagarvd01@gmail.com
 +91-9946-706-406
+website : http://www.virdwait.tk
+facebook : https://www.facebook.com/virdwait
+twitter : https://www.twitter.com/virdwait
