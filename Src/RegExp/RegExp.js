@@ -1,3 +1,4 @@
+// RELEASED UNDER MIT LICENSE. A REFERENCE TO THIS PAGE MUST BE PRODUCED WHEREEVER THE CONTENT IS USED.
 (function(){
 		 var  __EMAIL=/^[a-zA-Z0-9]{2,}((\!|\#|\$|\%|\&|\'|\*|\+|\-|\/|\=|\?|\^|\_|\`|\{|\||\}|\~|\!|\#|\$|\%|\&|\'|\*|\.)[a-zA-Z0-9]+)*@[a-zA-Z0-9-]+\.[a-zA-Z]{2,6}(\.[a-zA-Z0-9]{2,6}){0,1}$/;
 		  var __URL=/^(https:\/\/|http:\/\/|ftp:\/\/){0,1}(www.){1}[a-zA-Z0-9-]+\.[a-zA-Z]{2,6}(\.[a-zA-Z]{2,6}){0,1}(\/){0,1}$/;
