@@ -32,5 +32,16 @@
 				  return eL;
 			  }
 		  };
+		  var regMatch = function(REGEXP, STRING){
+			  try{
+				  if( REGEXP && STRING ){
+					  return STRING.match(REGEXP);
+				  }
+			  }
+			  catch(_ERR){
+				  $.errOr(_ERR);
+				  return eL;
+			  }
+		  };
 
 })();
